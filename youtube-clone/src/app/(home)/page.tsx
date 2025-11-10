@@ -1,9 +1,7 @@
-import React from 'react'
-
 const page = () => {
   return (
     <div>
-      Hello world
+      I will load videos in future!
     </div>
   )
 }
